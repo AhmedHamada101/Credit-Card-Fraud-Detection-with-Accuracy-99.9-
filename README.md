@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection with Accuracy 99.9%
 
-<img src="image.png">
+<img src="Image.png">
 
 ## About Dataset
 
