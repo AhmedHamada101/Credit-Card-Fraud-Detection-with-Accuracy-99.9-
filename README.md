@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection with Accuracy 99.9%
 
+<img src="image.png">
+
 ## About Dataset
 
 - Digital payments are evolving, but so are cybercriminals.
