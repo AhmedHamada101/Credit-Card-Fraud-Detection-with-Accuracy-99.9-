@@ -7,7 +7,7 @@
 - Digital payments are evolving, but so are cybercriminals.
 - According to the Data Breach Index, more than 5 million records are being stolen daily, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not-present types of payments.
 - In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
-- Link: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud]
+- Dataset Link: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud]
 
 
 ## Feature Explanation:
