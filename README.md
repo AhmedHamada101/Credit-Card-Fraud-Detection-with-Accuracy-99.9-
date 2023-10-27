@@ -1,9 +1,9 @@
-# Walmart-Store-Sales-Prediction-Accuracy-96.84-
+# Credit Card Fraud Detection with Accuracy 99.9%
 
 ## About Dataset
 
 - Digital payments are evolving, but so are cybercriminals.
-- According to the Data Breach Index, more than 5 million records are being stolen on a daily basis, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not-present types of payments.
+- According to the Data Breach Index, more than 5 million records are being stolen daily, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not-present types of payments.
 - In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
 
 
@@ -13,7 +13,7 @@
 - **ratio_to_median_purchase_price:** Ratio of purchased price transaction to median purchase price.
 - **repeat_retailer:** Does the transaction happen from the same retailer?
 - **used_chip:** Is the transaction through a chip (credit card).
-- **used_pin_number:** This is the transaction that happened by using a PIN number.
+- **used_pin_number:** This is the transaction that happened by using a PIN.
 - **online_order:** Is the transaction an online order?
 - **fraud:** Is the transaction fraudulent?
 
