@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection with Accuracy 99.9%
+# Credit Card Fraud Detection with 99.9% Accuracy
 
 <img src="Image.png">
 
@@ -6,17 +6,17 @@
 
 - Digital payments are evolving, but so are cybercriminals.
 - According to the Data Breach Index, more than 5 million records are being stolen daily, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not-present types of payments.
-- In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
+- In today’s digital world, where trillions of card transactions happen per day, detection of fraud is challenging.
 - Dataset Link: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud]
 
 
 ## Feature Explanation:
 - **distance_from_home:** the distance from the home where the transaction happened.
 - **distance_from_last_transaction:** the distance from the last transaction that happened.
-- **ratio_to_median_purchase_price:** Ratio of purchased price transaction to median purchase price.
+- **ratio_to_median_purchase_price:** Ratio of the purchased price of the transaction to the median purchase price.
 - **repeat_retailer:** Does the transaction happen from the same retailer?
-- **used_chip:** Is the transaction through a chip (credit card).
-- **used_pin_number:** This is the transaction that happened by using a PIN.
+- **used_chip:** Is the transaction through a chip (credit card)?
+- **used_pin_number:** This is a transaction that happened by using a PIN.
 - **online_order:** Is the transaction an online order?
 - **fraud:** Is the transaction fraudulent?
 
